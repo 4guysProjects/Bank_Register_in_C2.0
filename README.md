@@ -1,6 +1,6 @@
 # Welcome to your organization Repo
 
-## This repository has as main objective, store the development project of a CRUD in C
+### This repository has as main objective, store the development project of a CRUD in C
 
 <br />
 
@@ -16,7 +16,6 @@
 
 👉 Always remember to use tags to report a issues
 
----
 
 # Bank Register in C (Crud)
 
